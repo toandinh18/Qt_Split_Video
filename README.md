@@ -8,5 +8,6 @@ Qt have been know as a framwork application- cross platform. That means we can d
 - Have a add and remove button help adjust the option. 
 - Easy and friendly setup in different environment. 
 
-- Dinh Cong Toan
+# Authors
+ Dinh Cong Toan
   10/9/2019
