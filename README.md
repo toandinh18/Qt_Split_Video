@@ -11,3 +11,5 @@ Qt have been know as a framwork application- cross platform. That means we can d
 # Authors
  Dinh Cong Toan
   10/9/2019
+
+# GOOD TAKE TIME
